@@ -2,7 +2,7 @@
 
 ## Team members
 
-
+Juan Zanguitu <jzanguitu@hawk.iit.edu>
 Destiny Medina dmedina8@hawk.iit.edu
 
 ## Git & GitHub
