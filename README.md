@@ -3,6 +3,7 @@
 ## Team members
 
    Juan Zanguitu <jzanguitu@hawk.iit.edu>
+   Nolan Lawrence <nlawrence1@hawk.iit.edu>
 
 ## Git & GitHub
 
