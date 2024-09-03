@@ -4,7 +4,7 @@
 
 Juan Zanguitu <jzanguitu@hawk.iit.edu>
 Destiny Medina <dmedina8@hawk.iit.edu>
-Nolan Lawrence <nlawrence1@hawk.iit.edu>
+Nolan Lawrence <nlawrence1@hawk.iit.edu> #hey hows it goin
 
 ## Git & GitHub
 
