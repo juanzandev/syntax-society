@@ -1,0 +1,115 @@
+[33mcommit 41875ce14a8eb5c5df3aeaa03067958d1a9da141[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdev-medina[m[33m, [m[1;31morigin/dev-medina[m[33m)[m
+Merge: 8dc19dd fe55e2a
+Author: Juanzan <hunterleaguecanal@gmail.com>
+Date:   Tue Sep 3 23:56:45 2024 -0500
+
+    Merge branch 'dev-medina' of https://github.com/juanzandev/syntax-society into dev-medina
+
+[33mcommit fe55e2af38ef45ed8ef110177d6223ae9c9912d3[m
+Author: dmedinahawk <dmedina8@hawk.iit.edu>
+Date:   Tue Sep 3 23:49:03 2024 -0500
+
+    deleted dev-medina branch and made a new branch dev-medina
+
+[33mcommit 8ce32006cf17dc4a328c9a6dbd41b81933f1f3dc[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Juanzan <hunterleaguecanal@gmail.com>
+Date:   Tue Sep 3 16:42:30 2024 -0500
+
+    deleted java file
+
+[33mcommit 8b7f8bd310f05e6c8a8fd09bf6d114bbb40d5edb[m
+Author: LawrenceNolan <nlawr1215@icloud.com>
+Date:   Tue Sep 3 16:40:00 2024 -0500
+
+    Create nlawrence1.java
+    
+    java
+
+[33mcommit 8dc19ddd863e858735b3cd37fb9ddc23edf835ce[m
+Author: dmedinahawk <dmedina8@hawk.iit.edu>
+Date:   Tue Sep 3 16:36:05 2024 -0500
+
+    Create dmedina8.java
+    
+    first file
+
+[33mcommit 9c27ee0f28d59f21ee4f10501b10a9d209a67251[m
+Author: Juanzan <hunterleaguecanal@gmail.com>
+Date:   Tue Sep 3 16:29:30 2024 -0500
+
+    fixed typos
+
+[33mcommit f48203f1283cc64a57952902860d3c234ca02b39[m
+Author: LawrenceNolan <nlawr1215@icloud.com>
+Date:   Tue Sep 3 16:28:35 2024 -0500
+
+    test
+
+[33mcommit 2a5bda09494d998c998d7b57817e2b8be1a14297[m
+Author: LawrenceNolan <nlawr1215@icloud.com>
+Date:   Tue Sep 3 16:27:28 2024 -0500
+
+    PleaseWork
+
+[33mcommit df51146a0d8df37af5a3b7f2a6d8248af4ccd25f[m
+Merge: 8f8a630 cea35c0
+Author: Juanzan <hunterleaguecanal@gmail.com>
+Date:   Tue Sep 3 16:19:57 2024 -0500
+
+    Merge branch 'main' of https://github.com/juanzandev/syntax-society
+
+[33mcommit 8f8a6308be6fab299fa6b26c95f3528f1201d4c8[m
+Author: Juanzan <hunterleaguecanal@gmail.com>
+Date:   Tue Sep 3 16:19:28 2024 -0500
+
+    added name Juan Zanguitu
+
+[33mcommit cea35c0198bbbc92200a81522d1b9571309fc0d2[m
+Merge: 1db8015 b37637b
+Author: dmedinahawk <dmedina8@hawk.iit.edu>
+Date:   Tue Sep 3 16:16:58 2024 -0500
+
+    Merge branch 'main' of https://github.com/juanzandev/syntax-society
+
+[33mcommit 1db80150c909e092a760343d28e6e8112d6e3953[m
+Author: dmedinahawk <dmedina8@hawk.iit.edu>
+Date:   Tue Sep 3 16:16:48 2024 -0500
+
+    editing readme
+
+[33mcommit b37637b847fff67527e077c2ea28d460695764f6[m
+Merge: cf57348 86dbf09
+Author: dmedinahawk <dmedina8@hawk.iit.edu>
+Date:   Tue Sep 3 16:05:47 2024 -0500
+
+    Merge branch 'main' of https://github.com/juanzandev/syntax-society
+
+[33mcommit 86dbf095fad8d27949eb17230c71529df3d1b012[m
+Author: LawrenceNolan <nlawr1215@icloud.com>
+Date:   Tue Sep 3 15:59:07 2024 -0500
+
+    updated name
+
+[33mcommit cf57348e4e195580ef1f66a8a5e928c2a11c801f[m
+Author: dmedinahawk <dmedina8@hawk.iit.edu>
+Date:   Tue Sep 3 15:54:03 2024 -0500
+
+    editing readme
+
+[33mcommit 43ff853aac2409a64cbe37fd281be6570c3e9752[m
+Author: Juanzan <hunterleaguecanal@gmail.com>
+Date:   Tue Sep 3 15:52:55 2024 -0500
+
+    Juan adds his name into README.md
+
+[33mcommit f9a8212596a517aa310cbf5ba71454ec1f9854c1[m[33m ([m[1;31mupstream/main[m[33m, [m[1;31mupstream/HEAD[m[33m)[m
+Author: Michael Lee <lee@iit.edu>
+Date:   Tue Sep 3 00:05:36 2024 -0500
+
+    Update README.md
+
+[33mcommit 7988d54127bc3203586545ea26ba2f2de7186098[m
+Author: Michael Lee <lee@soi2.org>
+Date:   Sun Sep 11 14:15:46 2022 -0500
+
+    Initial commit
