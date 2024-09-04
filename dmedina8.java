@@ -1,6 +1,6 @@
-public class cs100 {
-  public static void main(){
-  System.out.println("Hello class");
+public class dmedina8 {
+  public static void main() {
+    System.out.println("Hello class");
   }
 
 }
