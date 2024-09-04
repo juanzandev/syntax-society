@@ -2,8 +2,9 @@
 
 ## Team members
 
-
-Destiny Medina dmedina8@hawk.iit.edu
+Juan Zanguitu <jzanguitu@hawk.iit.edu>
+Destiny Medina <dmedina8@hawk.iit.edu>
+Nolan Lawrence <nlawrence1@hawk.iit.edu>
 
 ## Git & GitHub
 
@@ -39,7 +40,7 @@ Here's an overview of what each team will do:
 3. Remaining members will accept the group assignment and join the same team.
 
 4. Each team member will *clone* the repository to their own computer.
-
+   
 5. One team member will edit a file in the repository, then *commit* and *push*
    their changes to GitHub.
 
@@ -66,7 +67,7 @@ you already have a GitHub account, you may use that.
 ### Step 2
 
 After forming a team of 2-3 students, designate one team member to accept the
-assignment using this link: <https://classroom.github.com/a/MFnr-oLv>.
+assignment using this link: <https://classroom.github.com/a/MFnr-oLv>. 
 
 After selecting their username from the list, use the "Create a new team" option
 --- feel free to come up with a fun team name, but keep it PG-13. After creating
@@ -87,7 +88,7 @@ Note that this assignment writeup can also be viewed on the repository homepage.
 At this point, only the founding team member will have access to the repository.
 Each team member should visit <https://classroom.github.com/a/MFnr-oLv> to
 accept the assignment, this time joining the same team created in the previous
-step.
+step. 
 
 When this is done, all team members will have access to the same repository
 hosted on GitHub, which is also shared with the course instructors and TAs. Note
@@ -119,7 +120,7 @@ Students already familiar with the command line interface (or up for a
 challenge) may clone the repository that way. An alternative [Git
 GUI](https://git-scm.com/downloads/guis) is also an option. If you're not
 interested in experimenting at this point, though, stick with the GitHub Desktop
-application!
+application! 
 
 ### Step 5
 
@@ -179,7 +180,7 @@ Next, follow the relevant instructions from the previous step to edit
 "README.md", commit, and push changes to GitHub.
 
 At the end of this step, all team members should click "Fetch origin" again to
-synchronize their local repositories with GitHub.
+synchronize their local repositories with GitHub. 
 
 Congratulations -- you've all contributed successfully to a team project using
 Git! Visiting the repository homepage on GitHub should display something like
@@ -194,7 +195,7 @@ two steps relies on *branches* and *pull requests*.
 
 A branch keeps track of a sequence of commits to our project. Thus far, all
 commits have been made to the mainline branch (aka "trunk") --- the default name
-of this branch is, simply, "main".
+of this branch is, simply, "main". 
 
 At any point, however, we can create a new branch that splits off from the
 mainline (or some other branch). Working in a secondary branch allows a
@@ -223,7 +224,7 @@ Do this by clicking on the "Current branch" button atop the GitHub Desktop
 application, then clicking "New branch". Each member should create a branch
 named "dev-USERNAME", replacing USERNAME with their own Hawk ID (e.g.,
 "dev-jdoe"). After doing this, confirm that the current branch is the newly
-created one.
+created one. 
 
 Next, each person will add a new Java source file to their local repository.
 Name the file "Username.java" (replacing "Username" with their own Hawk ID) --
